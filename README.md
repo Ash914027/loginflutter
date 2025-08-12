@@ -117,9 +117,9 @@ class HomeScreen extends StatelessWidget {
 
 Include screenshots of the application for better understanding. You can take screenshots of both the login and home screens and add them here.
 
-![Login Screen](https://github.com/user-attachments/assets/b49e7a68-9882-4614-87e3-c4a0514087d4) />
-)
-![Home Screen](https://github.com/user-attachments/assets/c355a5d2-f77a-4feb-b9d4-54370ecdda93) />
+![Login Screen](https://github.com/user-attachments/assets/b49e7a68-9882-4614-87e3-c4a0514087d4) 
+
+![Home Screen](https://github.com/user-attachments/assets/c355a5d2-f77a-4feb-b9d4-54370ecdda93) 
 
 
 ## APK Download 📥
